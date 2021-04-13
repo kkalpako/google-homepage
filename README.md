@@ -1,0 +1,1 @@
+This is my first repository for The Odin Project where I'll be recreating the google home page. (Just the basic page with the search bar.)
